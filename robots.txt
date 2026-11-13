@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://forbolino.com/sitemap.xml
